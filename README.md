@@ -1,4 +1,4 @@
-# Selenium-Rate-My-Proffessor-web-scraper
+# Selenium-Rate-My-Professor-web-scraper
 Given a list of professors, the python program generates a sorted list of the proffesors and their RateMyProfessor quality scores. Program intended to help narrow down class selection for "higher quality" elective classes.
 
 modify or create a .csv titled "rmp list.csv" where the first column has the full name of the list of professors. Often times, college/university websites can show you a list of available classes you can take. 
